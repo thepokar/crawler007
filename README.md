@@ -8,7 +8,7 @@ Simple And Best Tool To Crawler Any Website 2020
 
 <h4>To use</h4>
 
-<p><code>python3 cms007.py</code></p>
+<p><code>python3 crawler007.py</code></p>
 
 <h4>Follow Me</h4>
 
